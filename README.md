@@ -2,7 +2,7 @@
 
 ※ 本ハンズオンは SageMaker Training & Inference の basic Hands-on の続きです。
 
-## Hands-on のスコープ
+## Hands-on のお品書き
 SageMaker Training Job の定義と実行のハンズオン
 - ファイルまたはディレクトリをトレーニングインスタンスに持ち込む編
   - 単一のファイルをトレーニングに持ち込む
