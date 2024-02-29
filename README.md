@@ -21,4 +21,4 @@ SageMaker Inference endpoint の作成と呼び出しのハンズオン
 ## Hands-on 開始前の事前準備
 1. AWS マネジメントコンソールにて、SageMaker Studio または Notebook instance を立ち上げます。
 2. JupyterLab を開き、本 repo を clone します。
-3. JupyterLab で 1_sagemaker_training_job.ipynb ファイルを、2_pytorch.ipynb ファイルを開いてください。
+3. JupyterLab で SageMaker Training の場合は 1_sagemaker_training_job.ipynb ファイルを、SageMaker Inference の場合は 2_pytorch.ipynb ファイルを開いてください。
